@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundColor": "#11264f",
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#293047",
+    "navigationBarTitleText": "产品分析案例",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": true
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2",
+  "singlePage": {
+    "navigationBarFit": "float"
+  }
+}
